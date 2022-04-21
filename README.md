@@ -36,18 +36,15 @@ Full-stack web-application written in JavaScript created using the NextJS hybrid
 - Axios
 
 # Website Preview
-<!-- ![Desktop - 26](https://user-images.githubusercontent.com/82501158/164344774-4afe28c0-290c-4873-a335-151ecfb2bcd8.png)
-![image 28 (1)](https://user-images.githubusercontent.com/82501158/164345203-ec27e01f-6c27-4e08-a821-6df3557e9974.png)![image 29](https://user-images.githubusercontent.com/82501158/164345284-bb2cd6c0-249d-4732-a133-c0659612e4b8.png)
-
-
-![image 28 (5)](https://user-images.githubusercontent.com/82501158/164345548-6c602532-fb61-4397-925b-f5fdbf5c4272.png)![image 28 (5)](https://user-images.githubusercontent.com/82501158/164345551-87710d08-21fa-4332-bba8-0be50385b4a6.png) -->
-
-
-
-
-
 
 ![image 28](https://user-images.githubusercontent.com/82501158/164346210-432eb17b-6b59-4102-a7ec-b154f196bde9.png)![image 29](https://user-images.githubusercontent.com/82501158/164346224-5868e0de-d434-4ba2-8de9-c763588a6da1.png)
+
+![image 30](https://user-images.githubusercontent.com/82501158/164347329-6ffc4759-a6b5-4e76-b0b6-6856065f8b72.png)![image 31](https://user-images.githubusercontent.com/82501158/164347336-d68ac13c-0380-4a85-a4d5-ab684683ffbf.png)
+
+![image 32](https://user-images.githubusercontent.com/82501158/164347393-e302e098-0b2c-42dc-b9b8-6bcd2f5f0222.png)![image 33](https://user-images.githubusercontent.com/82501158/164347401-6ca3c7f0-19a1-4761-810f-8a2804bda452.png)
+
+
+![image 34](https://user-images.githubusercontent.com/82501158/164347440-39df8028-0a54-4d81-91db-2dc63c79c631.png)![image 35](https://user-images.githubusercontent.com/82501158/164347451-8e7139dd-fd63-4446-b5aa-9a5617a54fd2.png)
 
 
 
