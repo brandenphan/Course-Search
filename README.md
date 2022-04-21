@@ -36,6 +36,18 @@ Full-stack web-application written in JavaScript created using the NextJS hybrid
 - Axios
 
 # Website Preview
-![Desktop - 26](https://user-images.githubusercontent.com/82501158/164344774-4afe28c0-290c-4873-a335-151ecfb2bcd8.png)
-![image 28](https://user-images.githubusercontent.com/82501158/164345152-d218d13e-032c-4c43-b4aa-33809bfd1650.png)
+<!-- ![Desktop - 26](https://user-images.githubusercontent.com/82501158/164344774-4afe28c0-290c-4873-a335-151ecfb2bcd8.png)
+![image 28 (1)](https://user-images.githubusercontent.com/82501158/164345203-ec27e01f-6c27-4e08-a821-6df3557e9974.png)![image 29](https://user-images.githubusercontent.com/82501158/164345284-bb2cd6c0-249d-4732-a133-c0659612e4b8.png)
+
+
+![image 28 (5)](https://user-images.githubusercontent.com/82501158/164345548-6c602532-fb61-4397-925b-f5fdbf5c4272.png)![image 28 (5)](https://user-images.githubusercontent.com/82501158/164345551-87710d08-21fa-4332-bba8-0be50385b4a6.png) -->
+
+
+![image 28 (6)](https://user-images.githubusercontent.com/82501158/164345590-b646d6e4-781a-4803-9f07-88ae8efdf9f1.png)![image 29 (1)](https://user-images.githubusercontent.com/82501158/164345751-a02327d0-85c8-4e06-86ac-efab884047f9.png)
+
+
+
+
+
+
 
