@@ -3,6 +3,7 @@
 Full-stack web-application written in JavaScript created using the NextJS hybrid framework. This framework enables a React front-end with a NextJS built-in back-end. Web-application allows users to search courses offered by the University of Guelph and University of British Columbia while also allowing users to graph major, minor, subjects, linking the courses through prerequisites. Worked as a team of 6 members using various Git tools such as issues, milestones, burndown charts for consistent work throughout the 4 weeks this project was worked on. Project created for the CIS*3760 - Software Engineering Course offered at the University of Guelph.
 
 
+
 # Features 
 
 - Allow users to search courses offered at the University of Guelph and University of British Columbia, displaying various information related to the courses
@@ -16,6 +17,7 @@ Full-stack web-application written in JavaScript created using the NextJS hybrid
 - Fully responsive design
 
 - Cross-browser support
+
 
 
 # Technologies
@@ -35,6 +37,7 @@ Full-stack web-application written in JavaScript created using the NextJS hybrid
 - React Flow
 
 - Axios
+
 
 
 # Website Preview
