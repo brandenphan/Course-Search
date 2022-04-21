@@ -36,3 +36,5 @@ Full-stack web-application written in JavaScript created using the NextJS hybrid
 - Axios
 
 # Website Preview
+![Desktop - 26](https://user-images.githubusercontent.com/82501158/164344774-4afe28c0-290c-4873-a335-151ecfb2bcd8.png)
+
