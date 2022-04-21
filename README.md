@@ -1,25 +1,38 @@
 # General Information
-Utilizing NextJS allows us to create a full-stack web-application with a React front-end and backend with NextJS's built in REST API.
 
-# Directories:
-./.next contains the production build which is an optimized version of the developed code created using "npm run build"
+Full-stack web-application written in JavaScript created using the NextJS hybrid framework. This framework enables a React front-end with a NextJS built-in back-end. Web-application allows users to search courses offered by the University of Guelph and University of British Columbia while also allowing users to graph major, minor, subjects, linking the courses through prerequisites. Worked as a team of 6 members using various Git tools such as issues, milestones, burndown charts for consistent work throughout the 4 weeks this project was worked on. 
 
-./components contains various react functional components that is used in the front-end
+# Features 
 
-./context contains the width context component that stores and sends the screens current width to the different react components in the front-end
+- Allow users to search courses offered at the University of Guelph and University of British Columbia, displaying various information related to the courses
 
-./data contains various scraped data from the University of Guelph and University of British Columbia that is used in the web-application
+- Allows users to search majors/minors/subjects, graphing the course tree for the searched item linked by their prerequisites
 
-./node_modules contain various npm packages required to run the web-application. Requires "npm install" to be ran to download all node_modules prior to running the application aas they are not pushed onto git
+- Once a major/minor/subject has been graphed, users can click a course on the graph, highlighting the prerequisite issues if that course is not taken
 
-./pages contains the different pages on our web-application (ex: search.js corresponds to link/search on our web-application). The _app.js and _document.js files are created to 
-change hidden components in NextJS
-./pages/api holds the different backend API routes that can be called
+- Implementation of Dark Mode
 
-./public contains various front-end components that is needed by NextJS
+- Fully responsive design
 
-./src contains various functions that is called in the backend and come from previous sprint deliverables
+- Cross-browser support
 
-# Locally Hosting
-Running "npm install" will install all dependencies necessary to run the web-application
-Running "npm run dev" from the root directory will run the web-application on localhost:3000 unless that port is currently in use which NextJS will prompt the user to use a different port
+
+# Technologies
+
+- JavaScript
+
+- NextJS
+
+- ReactJS
+
+- Material UI
+
+- Playwright
+
+- NodeJS
+
+- React Flow
+
+- Axios
+
+# Website Preview
