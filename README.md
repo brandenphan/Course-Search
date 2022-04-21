@@ -43,9 +43,11 @@ Full-stack web-application written in JavaScript created using the NextJS hybrid
 ![image 28 (5)](https://user-images.githubusercontent.com/82501158/164345548-6c602532-fb61-4397-925b-f5fdbf5c4272.png)![image 28 (5)](https://user-images.githubusercontent.com/82501158/164345551-87710d08-21fa-4332-bba8-0be50385b4a6.png) -->
 
 
-![image 28 (6)](https://user-images.githubusercontent.com/82501158/164345590-b646d6e4-781a-4803-9f07-88ae8efdf9f1.png)![image 29 (1)](https://user-images.githubusercontent.com/82501158/164345751-a02327d0-85c8-4e06-86ac-efab884047f9.png)
 
 
+
+
+![image 28](https://user-images.githubusercontent.com/82501158/164346210-432eb17b-6b59-4102-a7ec-b154f196bde9.png)![image 29](https://user-images.githubusercontent.com/82501158/164346224-5868e0de-d434-4ba2-8de9-c763588a6da1.png)
 
 
 
